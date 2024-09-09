@@ -1,0 +1,15 @@
+header{
+    background-color: rgba(211,45,45,0.2);
+}
+.navigation{
+    position: relative;
+    height: 40px;
+}
+
+.logo{
+    position: relative;
+    width: 200px;
+    top: 30px;
+    left: 20px;
+}
+
